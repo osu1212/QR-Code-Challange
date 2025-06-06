@@ -1,2 +1,2 @@
 # QR-Code-Challange
-frontend mentor begineer challange 1
+# frontend mentor begineer challange 1
