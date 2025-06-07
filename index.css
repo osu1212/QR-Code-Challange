@@ -1,0 +1,54 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    border: 10px;
+}
+
+.qr-code {
+    width: 20%;
+    height: 40%;
+
+}
+
+.title {
+    color: hsl(218, 44%, 22%);
+    font-size: 15px;
+    font-weight: 700;
+    font-family: ;
+    line-height: 0;
+    margin: 0;
+    padding-bottom: 0;
+
+}
+
+.paragraph {
+    color: hsl(216, 15%, 48%);
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 0;
+    margin: 0;
+    padding-top: 15px;
+}
+
+.description {
+    color: hsl(216, 15%, 48%);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*.gap {
+    padding: 30px;
+}
