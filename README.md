@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/osu1212/QR-Code-Challange.git)
+- Live Site URL: [Add live site URL here](https://osu1212.github.io/QR-Code-Challange/)
 
 ## My process
 I began by adding the image of the QR code and the text under it, had issues fixing the gap between lines but later sorted it out. The next issue was adding the background colors,the came adding and fitting the border to the right dimensions and getting ever element to fit and for me this was the hardest part of this challange.
