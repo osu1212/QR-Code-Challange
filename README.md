@@ -1,5 +1,5 @@
-# QR-Code-Challange
-# frontend mentor begineer challange 1
+# QR-Code-Challenge
+# frontend mentor begineer challenge 1
 # Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H), aimed at providing a page to grant users easy access to the frontend mentor website. This project consists of an HTML page with a QR which users can scan as well as a boilerplate.
 
 ### Screenshot
-![screenshot of solution to coding challange 1](<Screenshot (26).png>)
+![screenshot of solution to coding challenge 1](<Screenshot (26).png>)
 
 
 ### Links
@@ -29,7 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: [Add live site URL here](https://osu1212.github.io/QR-Code-Challange/)
 
 ## My process
-I began by adding the image of the QR code and the text under it, had issues fixing the gap between lines but later sorted it out. The next issue was adding the background colors,the came adding and fitting the border to the right dimensions and getting ever element to fit and for me this was the hardest part of this challange.
+I began by adding the image of the QR code and the text under it, had issues fixing the gap between lines but later sorted it out. The next issue was adding the background colors,the came adding and fitting the border to the right dimensions and getting ever element to fit and for me this was the hardest part of this challenge.
 
 ### Built with
 
@@ -79,7 +79,7 @@ I would love to build on my frontend skills especislly in the aspect of building
 ## Author
 
 - Website - [Osutuk Ndifreke Patrick]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@osu1212](https://www.frontendmentor.io/profile/osu1212)
 
 
 
